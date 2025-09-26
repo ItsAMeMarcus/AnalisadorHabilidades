@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Habilidades",
+  "description": "Uma ferramenta de IA que compara suas habilidades com uma descrição de vaga para identificar pontos em comum e áreas para desenvolvimento.",
+  "requestFramePermissions": []
+}
